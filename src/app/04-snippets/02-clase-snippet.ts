@@ -1,4 +1,10 @@
+export class NuevoSuperHeroe2 {
 
+    constructor() {
+
+    }
+
+}
 
 
 
